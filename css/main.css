@@ -12,6 +12,10 @@
        -moz-box-sizing: border-box;
        box-sizing: border-box;
   }
+  @font-face {
+    font-family: Aachen BT;
+    src: url(../fonts/AACHENB.TTF);
+  }
   body {
     font-family: Aachen BT ,fantasy ;
     overflow-x:hidden;
